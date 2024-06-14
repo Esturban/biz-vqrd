@@ -22,3 +22,5 @@ ENV/
 
 # Environment variables
 .env
+output
+ *.vcf
